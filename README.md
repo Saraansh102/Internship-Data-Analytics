@@ -1,4 +1,5 @@
 ## Academic Project
 *Heart Disease Prediction*
 
-[Heart Disease Prediction - Jupyter Notebook.pdf](https://github.com/user-attachments/files/16957750/Heart.Disease.Prediction.-.Jupyter.Notebook.pdf)
+
+![image](https://github.com/user-attachments/assets/ad1a81ef-004f-4d54-84b7-c9d114886d66)
